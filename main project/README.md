@@ -1,6 +1,6 @@
 # ToDo List Project by ** HTML,CSS.JS **
 Basic Application that applys the principles of integration between HTML,CSS,JS 
-[live demo](https://your-example-demo)
+[live demo](https://todo-list-app2-ashy.vercel.app/)
 ----------------------------------------
 ### screenshots 
 [main screen](./assets/preview.png)
@@ -21,7 +21,7 @@ Basic Application that applys the principles of integration between HTML,CSS,JS
 on your own device 
 1. open clone:
 ```bash 
-    git clone https://github.com/your-username/todo-list-app.git
+    git clone https://github.com/Abdelrahman-essam11/todo-list-app.git
 ```
 2. open folder:
 ```bash
@@ -31,7 +31,7 @@ on your own device
 ----------------------------------------
 ### Contact
 - **LinkedIn**:[AbdelRahman Essam](https://linkedin.com/yourprofile).
-- **Email**:your email.
+- **Email**:abdoessam1234sakr@gmail.com.
 ----------------------------------------
 ## Architecture
 1. Architecture Pattern
